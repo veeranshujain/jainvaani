@@ -243,7 +243,7 @@ export default function App() {
       <aside className="sidebar">
         <div className="brand">
           <img
-            src="/jainvaani-logo.jpeg"
+            src="/jainvaani-logo.png"
             alt="JainVaani"
             className="sidebar-logo"
           />
@@ -297,7 +297,7 @@ export default function App() {
         <header className="topbar">
           <div className="mobile-brand">
             <img
-              src="/jainvaani-logo.jpeg"
+              src="/jainvaani-logo.png"
               alt=""
               className="mobile-logo"
             />

@@ -91,7 +91,7 @@ function printCertificate(c: any) {
     <body>
       <div class="box">
         <div class="header">
-          <img src="/jainvaani-logo.jpeg" alt="Logo" class="logo" />
+          <img src="/jainvaani-logo.png" alt="Logo" class="logo" />
           <div class="brand">JAINVAANI · ज्ञान • संयम • साधना</div>
         </div>
         <div>
